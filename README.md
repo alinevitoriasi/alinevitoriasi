@@ -7,10 +7,10 @@
 <a href="https://www.instagram.com/alinepontocom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UChH4Kq0OqboZYy9-hhyuODQ" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
-## Aline Vitória
+
 ### Bem vindo ao meu perfil GitHub 👋
 
-Olá, sou Aline Soares, tenho 24 anos, sou Desenvolvedora Front-end e criadora conteúdo de programação e tecnologia, estudante de Sistemas de Informação.
+Olá, sou Aline Soares, sou desenvolvedora front-end, criadora conteúdo de programação e tecnologia e estudante de Sistemas de Informação.
 ___
 ### Ferramentas e Tecnologias
 
