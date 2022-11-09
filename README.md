@@ -10,7 +10,7 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Olá, sou Aline Soares, sou desenvolvedora front-end, criadora conteúdo de programação e tecnologia e estudante de Sistemas de Informação.
+Olá, sou Aline Soares, desenvolvedora front-end, criadora conteúdo de programação e tecnologia e estudante de Sistemas de Informação.
 ___
 ### Ferramentas e Tecnologias
 
